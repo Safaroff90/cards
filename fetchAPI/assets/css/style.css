@@ -1,0 +1,20 @@
+.img{
+    border-end-end-radius: 50% !important;
+    
+    width: 40% !important;
+
+}
+.div-radius{
+    border-start-end-radius: 30% !important;
+}
+.border-btm{
+    border-bottom:5px solid black !important;
+}
+.icon{
+    font-size: 20px;
+    background-color:indigo;
+    padding: 3px;
+    border-radius: 50%;
+    color: white;
+}
+    
